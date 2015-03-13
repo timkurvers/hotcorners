@@ -1,0 +1,18 @@
+#!/usr/bin/env zsh
+
+state=$1
+
+if [[ $state == 'off' ]]; then
+  flags=1048576
+else
+  flags=0
+fi
+
+defaults write com.apple.dock wvous-tl-modifier -int $flags
+defaults write com.apple.dock wvous-tr-modifier -int $flags
+defaults write com.apple.dock wvous-bl-modifier -int $flags
+defaults write com.apple.dock wvous-br-modifier -int $flags
+
+killall Dock
+
+return 0

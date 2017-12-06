@@ -2,7 +2,7 @@
 
 Quickly enable/disable your Mac's hot corners.
 
-Useful when game developers - looking at you [Valve] - refuse to fix their stuff.
+Useful when game developers - looking at you [Valve with Dota 2] - refuse to fix their stuff.
 
 Licensed under the **MIT** license, see LICENSE for more information.
 
@@ -22,4 +22,4 @@ hotcorners off
 ```
 
 [Antigen]: https://github.com/zsh-users/antigen
-[Valve]: https://github.com/ValveSoftware/Dota-2/issues/140
+[Valve with Dota 2]: https://dev.dota2.com/showthread.php?t=98174

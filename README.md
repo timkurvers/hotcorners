@@ -6,8 +6,6 @@ Quickly enable/disable your Mac's hot corners.
 
 Useful when game developers - looking at you [Valve with Dota 2] - refuse to fix their stuff.
 
-Licensed under the **MIT** license, see LICENSE for more information.
-
 ## Installation
 
 Add as a bundle through [Antigen]:

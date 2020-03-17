@@ -1,5 +1,7 @@
 # hotcorners
 
+[![MIT License](https://badgen.net/github/license/timkurvers/hotcorners)](LICENSE.md)
+
 Quickly enable/disable your Mac's hot corners.
 
 Useful when game developers - looking at you [Valve with Dota 2] - refuse to fix their stuff.
